@@ -1,0 +1,3 @@
+This directory is for game showcase videos.
+Supported format: .mp4
+Naming convention: Match the names in src/components/Work.tsx (e.g., satisfix.mp4, shadowblade.mp4).
